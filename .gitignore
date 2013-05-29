@@ -1,0 +1,6 @@
+.DS_Store
+*.swap*
+gas-preprocessor/
+ffmpeg/
+ffmpeg-*/
+ffmpeg-*.tar.*
